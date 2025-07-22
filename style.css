@@ -1,0 +1,169 @@
+*{
+    background-color: rgb(114, 119, 143);
+}
+.head{
+    background-color: rgb(85, 114, 148);
+    padding: 20px;
+    margin-top: 50px;
+    border:3px SOLID ;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+  .WELCOME{
+    text-align:center;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+  }
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-family:sans-serif;
+    font-weight: bold;
+    margin-top:none;
+    background-color: rgb(198, 199, 212);
+    border: 5px solid;
+}
+.h4{
+   text-align: center;
+    background-color: rgb(37, 75, 119);
+    font-size: larger;  
+    padding: 10px 5px;
+    margin-left: 180px;
+    margin-right: 180px;
+    color: rgb(29, 24, 21);
+}
+.signup{
+    border:px solid;
+    margin-right:650px;
+    margin-left:50px;
+    margin-top:40px;
+    background-color: rgb(27, 75, 104);
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    background-color: aliceblue;
+    width: 270px;
+    height:30px;
+}
+#login{
+    margin-left: 100px;
+}
+.words{
+    font-size: 1.4rem;
+    background-color: rgb(41, 67, 90);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#welcome{
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 100px;
+}
+.username{
+      margin-top: 30px;
+      border:2px solid;
+      padding-left: 50px;
+      padding-bottom: 5px;
+      margin-right: 100px;
+      background-color: rgb(43, 66, 87);
+      margin-left: 30px ;
+}
+footer{
+    margin-top: 150px;
+}
+#logn{
+    text-align: center;
+    background-color: rgb(14, 63, 170);
+    font-size: 1.2rem;
+    margin:15px 150px;
+}
+.balance{
+    background-color: rgb(102, 236, 102);
+    margin-top: 20px;
+    padding: 1px 10px 10px 10px;
+    border: 10px solid;
+    margin-right: 100px;
+    margin-left: 10px;
+
+}
+#balance{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(22, 13, 8);
+    background-color: rgb(145, 216, 151);
+    margin-right: 900px;
+}
+.home{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+}
+#withdrawal{
+    border: 3px solid;
+    background-color: rgb(66, 197, 83);
+}
+    .subdashboard{
+    display: flex;
+    flex-direction: row;
+        margin-top: 20px;
+    }
+    #transaction{
+        background-color: rgb(66, 197, 83);
+        margin-left: 10px;
+        padding: 5px;
+        border: 3px solid;
+    }
+    ul{
+        list-style-type:disc;
+        padding: 10px;
+    }
+    #li{
+        font-size: 1.2rem;
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(22, 13, 8);
+    }
+    #trades{
+        background-color: rgb(66, 197, 83);
+        margin-left: 7px;
+        padding: 6px;
+        border: 3px solid;
+    }
+    .pairs{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .sell{
+        color:red
+    }
+    .buy{
+        color:green;
+    }
+    .profit{
+        color:blue;
+    }
+    .loss{
+        color:red;
+    }
+    .tradeview{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .copytrade{
+        background-color: rgb(19, 85, 27);
+        padding: 5px;
+        border: 3px solid;
+        margin-left: 10px;
+    }
+    #copy{
+        background-color: rgb(178, 182, 178);
+        padding: 5px;
+        border: 3px solid;
+        margin-left: 10px;
+        text-align: center;
+    }
+    #copys{
+        font-weight: bolder;
+        font-size: 1.2rem;
+        font-family: 'Times New Roman', Times, serif;
+    }
